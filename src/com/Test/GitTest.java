@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("Hot fix test");
         System.out.println("Push Test");
         System.out.println("This is from GitHub!");
+        System.out.println("This if for Gitee");
     }
 }
